@@ -2,10 +2,10 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V0MUlfSnmghYqTNMvqt6xPiqcqs_UNSF?usp=sharing)
 
-Object tracking implemented with YOLOv4, DeepSort, and TensorFlow. YOLOv4 is a state of the art algorithm that uses deep convolutional neural networks to perform object detections. We can take the output of YOLOv4 feed these object detections into Deep SORT (Simple Online and Realtime Tracking with a Deep Association Metric) in order to create a highly accurate object tracker.
+Welcome to our GitHub page for the research project "Vehicle Movement Trajectory using Machine Learning Methods." We aim to revolutionize transport survey data extraction by combining machine learning and drone technology.  The possibility of more easily enabling traffic surveys exists with the use of machine learning and drone footage in transportation surveys. This research has the potential to accelerate data extraction procedures and improve the effectiveness of traffic analysis by automating the identification, classification, and tracking of cars with features of result visualization and storage. 
 
 ## Getting Started
-To get started, install the proper dependencies either via Anaconda or Pip. I recommend Anaconda route for people using a GPU as it configures CUDA toolkit version for you.
+To get started, install the proper dependencies either via Anaconda or Pip. Anaconda route is recommended for people using a GPU as it configures CUDA toolkit version for you.
 
 ### Conda (Recommended)
 
